@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center">Hi there! I'm Susanna Maugeri <img src="./wave.gif" width = 30px></h3>
+<h3 align="center">Hi there! I'm Susanna Maugeri 👋🏻</h3>
 
 <!-- Profile Views -->
 <!--
@@ -9,7 +9,7 @@
 
 <!--
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
+  <a href="https://www.giftegwuenu.dev">Website</a>
   <a href="https://twitter.com/lauragift_">Twitter</a>
 </p> 
 -->
