@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center">Hi there! I'm Susanna Maugeri<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
+<h3 align="center">Hi there! I'm Susanna Maugeri <img src="./wave.gif" width = 30px></h3>
 
 <!-- Profile Views -->
 <!--
@@ -102,22 +102,21 @@
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susannamau" alt="Gift's LangStat" />
+   <br><br>
+   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=susannamau&show_icons=true" />
+   <br><br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susannamau&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 
 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susannamau&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
 
 
-
-
-<summary><b>⚡ GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=susannamau&show_icons=true" />
+ 
 
 <!-- GitHub section: END -->
 
 <!-- Profile Views -->
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susannamau&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
