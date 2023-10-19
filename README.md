@@ -71,7 +71,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 
-**Autodidact in**
+**Self-taught in**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=flat&logo=CSS3&logoColor=white)
