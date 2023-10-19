@@ -1,11 +1,5 @@
 <!-- Heading -->
-# Hello world! 🌍
-
-<!-- Profile Views -->
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susannamau&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
--->
+# Hello, world! 🌍
 
  <!-- About section -->
 ---
