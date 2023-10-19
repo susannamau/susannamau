@@ -77,6 +77,7 @@
 ![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=flat&logo=CSS3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun%20-%23FA0F00.svg?&style=flat&logo=Bun&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter%20-%23F7931E.svg?&style=flat&logo=Flutter&logoColor=white)
 
 
 <!-- About section: END -->
