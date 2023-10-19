@@ -16,17 +16,15 @@
 
 ❤️‍🔥 I love learning new things and starting new projects
 
-**Languages**
+**Languages ✏️**
 
 ![Python](https://img.shields.io/badge/Python-%23CC342D?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFFF00.svg?style=flat&logo=SPSS&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-%23239120.svg?style=flat&logo=SAS&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-E97627.svg?style=flat&logo=SPSS&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%2300AFF0.svg?style=flat&logo=Git&logoColor=white)
 
 
-**ML & DL Frameworks**
+**ML & DL Frameworks 🖥️**
 
 ![Pandas](https://img.shields.io/badge/pandas-%23E4405F.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -34,22 +32,39 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%237289DA.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Knime](https://img.shields.io/badge/KNIME-informational?style=flat&color=FFFF00)
 
 
-**Editors & Tools**
+**ML and Data Mining softwares 💻**
+
+![RapidMiner](https://img.shields.io/badge/RapidMiner-informational?style=flat&color=%234ea94b)
+![Orange](https://img.shields.io/badge/Orange-informational?style=flat&color=%23F7931E)
+![SAS Enterprise Miner](https://img.shields.io/badge/SAS_Enterprise_Miner-008CC1.svg?style=flat&logo=SPSS&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-E97627.svg?style=flat&logo=SPSS&logoColor=white)
+
+
+**Editors & Tools ✍🏻**
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Knime](https://img.shields.io/badge/KNIME-informational?style=flat&color=FFFF00)
-![RapidMiner](https://img.shields.io/badge/RapidMiner-informational?style=flat&color=%234ea94b)
-![Orange](https://img.shields.io/badge/Orange-informational?style=flat&color=%23F7931E)
-![SAS Enterprise Miner](https://img.shields.io/badge/SAS_Enterprise_Miner-008CC1.svg?style=flat&logo=SPSS&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%23F7931E.svg?style=flat&logo=atom&logoColor=white)
+
+
+**Organizing and collaborating tools 👩🏼‍🤝‍👨🏽**
+
+![Git](https://img.shields.io/badge/Git-%2300AFF0.svg?style=flat&logo=Git&logoColor=white)
 ![Jira/X-ray](https://img.shields.io/badge/Jira%20-%235835CC.svg?&style=flat&logo=Jira&logoColor=white")
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 
-**Database & Data Visualization**
+**Database & Data Visualization 📊**
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white")
@@ -59,13 +74,16 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 
-**Self-taught in**
+**Self-taught in 📚**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=flat&logo=CSS3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun%20-%23FA0F00.svg?&style=flat&logo=Bun&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter%20-%23F7931E.svg?&style=flat&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+
+
 <!-- About section: END -->
 
 <!-- Conecct section -->
