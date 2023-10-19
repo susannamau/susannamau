@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center">Hi there! I'm Susanna Maugeri 👋🏻</h3>
+# Hello world! 🌍
 
 <!-- Profile Views -->
 <!--
@@ -7,18 +7,12 @@
 </p>
 -->
 
-<!--
-<p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a>
-  <a href="https://twitter.com/lauragift_">Twitter</a>
-</p> 
--->
-
  <!-- About section -->
-
 ---
 <!-- code gif-->
 <img align="right" alt="GIF" src="./code.gif" width="400" />
+
+### I'm Susanna Maugeri 👋🏻
 
 📚 I'm a Data Science student at University of Milan - Bicocca with a background in Statistics and Information Management
 
@@ -78,27 +72,18 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun%20-%23FA0F00.svg?&style=flat&logo=Bun&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter%20-%23F7931E.svg?&style=flat&logo=Flutter&logoColor=white)
-
-
 <!-- About section: END -->
 
-
 <!-- Conecct section -->
-
 <h2>Connect with me </h3>
   <p>
     <a href="https://www.linkedin.com/in/susanna-maugeri/"><img src="https://img.shields.io/badge/-Susanna%20Maugeri%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/susanna-maugeri" alt="LinkedIn Badge"></a>
     <a href="https://twitter.com/SusannaMaugeri"><img src="https://img.shields.io/badge/-Susanna Maugeri-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;" alt="Twitter Badge"></a>
     <a href="https://www.instagram.com/susannamau/"><img src="https://img.shields.io/badge/SusannaMau%20-informational?&style=plastic&amp;labelColor=informational&amp;logo=Instagram&logoColor=white"/></a>
-
-
-   
   </p>
-
  <!-- Conecct section: END -->
  
   <!-- GitHub section -->
-
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
@@ -107,13 +92,7 @@
    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=susannamau&show_icons=true" />
    <br><br>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susannamau&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-
-
 </div>
-
-
- 
-
 <!-- GitHub section: END -->
 
 <!-- Profile Views -->
@@ -122,21 +101,5 @@
 </p>
 
 <!-- THE END -->
-
-
-<!--
-**lauragift21/lauragift21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 Credits to [Gift Egwuenu](https://github.com/lauragift21/) and [Tawkir Alif](https://github.com/TawkirAlif) for the beautiful template, gif and badges
