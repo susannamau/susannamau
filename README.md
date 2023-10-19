@@ -24,26 +24,26 @@
 ![SAS](https://img.shields.io/badge/SAS-%23239120.svg?style=flat&logo=SAS&logoColor=white)
 
 
-**ML & DL Frameworks 🖥️**
+**ML & DL frameworks 🖥️**
 
-![Pandas](https://img.shields.io/badge/pandas-%23E4405F.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23E4405F.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%237289DA.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+
+
+**ML & Data Mining softwares 💻**
+
 ![Knime](https://img.shields.io/badge/KNIME-informational?style=flat&color=FFFF00)
-
-
-**ML and Data Mining softwares 💻**
-
 ![RapidMiner](https://img.shields.io/badge/RapidMiner-informational?style=flat&color=%234ea94b)
 ![Orange](https://img.shields.io/badge/Orange-informational?style=flat&color=%23F7931E)
 ![SAS Enterprise Miner](https://img.shields.io/badge/SAS_Enterprise_Miner-008CC1.svg?style=flat&logo=SPSS&logoColor=white)
 ![SPSS](https://img.shields.io/badge/SPSS-E97627.svg?style=flat&logo=SPSS&logoColor=white)
 
 
-**Editors & Tools ✍🏻**
+**Editors ✍🏻**
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
@@ -54,19 +54,19 @@
 ![Atom](https://img.shields.io/badge/Atom-%23F7931E.svg?style=flat&logo=atom&logoColor=white)
 
 
-**Organizing and collaborating tools 👩🏼‍🤝‍👨🏽**
+**Organizing & collaborating tools 👩🏼‍🤝‍👨🏽**
 
 ![Git](https://img.shields.io/badge/Git-%2300AFF0.svg?style=flat&logo=Git&logoColor=white)
 ![Jira/X-ray](https://img.shields.io/badge/Jira%20-%235835CC.svg?&style=flat&logo=Jira&logoColor=white")
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 
 **Database & Data Visualization 📊**
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-008CC1.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white")
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Cypher](https://img.shields.io/badge/Cypher-%23E4405F?style=flat&logo=Cypher&logoColor=white)
@@ -81,7 +81,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun%20-%23FA0F00.svg?&style=flat&logo=Bun&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter%20-%23F7931E.svg?&style=flat&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 
 
 <!-- About section: END -->
