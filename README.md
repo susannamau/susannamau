@@ -114,4 +114,4 @@
 
 <!-- THE END -->
 
-Credits to [Gift Egwuenu](https://github.com/lauragift21/) and [Tawkir Alif](https://github.com/TawkirAlif) for the beautiful template, gif and badges
+Credits: [Gift Egwuenu](https://github.com/lauragift21/) and [Tawkir Alif](https://github.com/TawkirAlif)
