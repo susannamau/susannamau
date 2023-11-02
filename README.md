@@ -99,17 +99,17 @@
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susannamau" alt="Gift's LangStat" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susannamau" alt="My stats" />
    <br><br>
    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=susannamau&show_icons=true" />
    <br><br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susannamau&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=susannamau&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="My languages" height="192px"  width="500px"/>
 </div>
 <!-- GitHub section: END -->
 
 <!-- Profile Views -->
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susannamau&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=susannamau&label=Profile%20views&color=0e75b6&style=flat" alt="My views" />
 </p>
 
 <!-- THE END -->
