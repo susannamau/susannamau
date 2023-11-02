@@ -99,7 +99,7 @@
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
  <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susannamau" alt="My stats" />
+   <img align="center" src="https://streak-stats.demolab.com/?user=susannamau&theme=default" alt="My stats" />
    <br><br>
    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=susannamau&show_icons=true" />
    <br><br>
