@@ -22,6 +22,7 @@
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFFF00.svg?style=flat&logo=SPSS&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-%23239120.svg?style=flat&logo=SAS&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-2596CD?style=flat&logoColor=%232596CD)
 
 
 **ML & DL frameworks 🖥️**
@@ -66,6 +67,7 @@
 
 **Database & Data Visualization 📊**
 
+![Oracle](https://img.shields.io/badge/Oracle%20-%23F00000.svg?&style=flat&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-008CC1.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white")
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
