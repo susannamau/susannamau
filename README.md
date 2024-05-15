@@ -82,6 +82,8 @@
 ![Bun](https://img.shields.io/badge/Bun%20-%23FA0F00.svg?&style=flat&logo=Bun&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter%20-%23F7931E.svg?&style=flat&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat&logo=firebase)
 
 
 <!-- About section: END -->
