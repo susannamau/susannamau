@@ -8,11 +8,11 @@
 
 ### I'm Susanna Maugeri 👋🏻
 
-📚 I'm a Data Science student at University of Milan - Bicocca with a background in Statistics and Information Management
+📚 I'm a Data Scientist with a background in Statistics and Information Management
 
 👩🏼‍💻 Passionate about Statistics, Computer Science and new technologies
 
-📍 Currently working at DG Statistics @ ECB - please note views expressed are my own
+📍 Currently working @ BPER Banca - please note views expressed are my own
 
 ❤️‍🔥 I love learning new things and starting new projects
 
@@ -23,6 +23,11 @@
 ![SQL](https://img.shields.io/badge/SQL-FFFF00.svg?style=flat&logo=SPSS&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-%23239120.svg?style=flat&logo=SAS&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-2596CD?style=flat&logoColor=%232596CD)
+
+
+**Cloud technologies☁️**
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-ffffff?style=flat&logoColor=%232596CD&logo=googlecloud)
 
 
 **ML & DL frameworks 🖥️**
