@@ -12,7 +12,7 @@
 
 👩🏼‍💻 Passionate about Statistics, Computer Science and new technologies
 
-📍 Currently working @ BPER Banca - please note views expressed are my own
+📍 Currently working as a Data Scientist @ BPER Banca - please note views expressed are my own
 
 ❤️‍🔥 I love learning new things and starting new projects
 
