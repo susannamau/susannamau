@@ -1,36 +1,60 @@
-<!-- Heading -->
-# Hello, world! 🌍
+<!-- HEADER -->
+<h1 align="center">Hello, world! 🌍</h1>
+<h3 align="center">I'm Susanna Maugeri 👋🏻</h3>
 
- <!-- About section -->
+<p align="center">
+  📊 Data Scientist • 📈 Statistics Lover • 🤖 Tech Enthusiast
+</p>
+
+<p align="center">
+  <img src="./code.gif" width="420" alt="coding gif"/>
+</p>
+
 ---
-<!-- code gif-->
-<img align="right" alt="GIF" src="./code.gif" width="400" />
 
-### I'm Susanna Maugeri 👋🏻
+## 👩🏼‍💻 About Me
 
-📚 I'm a Data Scientist with a background in Statistics and Information Management
+- 📚 **Data Scientist** with a background in *Statistics & Information Management*  
+- 💡 Passionate about **Statistics, Computer Science and emerging technologies**  
+- 🏦 Currently working as **Data Scientist @ BPER Banca** - views expressed are my own
+- 🚀 Always curious, always learning, always building
 
-👩🏼‍💻 Passionate about Statistics, Computer Science and new technologies
+---
 
-📍 Currently working as a Data Scientist @ BPER Banca - please note views expressed are my own
+## Tech Stack 🧠
 
-❤️‍🔥 I love learning new things and starting new projects
-
-**Languages ✏️**
-
+### Languages ✏️
 ![Python](https://img.shields.io/badge/Python-%23CC342D?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFFF00.svg?style=flat&logo=SPSS&logoColor=white)
 ![SAS](https://img.shields.io/badge/SAS-%23239120.svg?style=flat&logo=SAS&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-2596CD?style=flat&logoColor=%232596CD)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-2596CD?style=flat)
 
 
-**Cloud technologies☁️**
+### Generative AI & LLMs 🧠
+![LLMs](https://img.shields.io/badge/LLMs-%23000000.svg?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-%234ea94b.svg?style=flat)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-0A0A0A?style=flat)
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-ffffff?style=flat&logoColor=%232596CD&logo=googlecloud)
+
+### Machine Learning & AI 🤖
+- Supervised & Unsupervised Learning  
+- Natural Language Processing (NLP)  
+- Generative Adversarial Networks (GANs)  
+- Model Monitoring & ML Lifecycle Management  
+- Synthetic Data Generation
 
 
-**ML & DL frameworks 🖥️**
+### Cloud & MLOps ☁️
+![Google Cloud Platform](https://img.shields.io/badge/GCP-ffffff?style=flat&logo=googlecloud)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat)
+![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
+
+
+### Frameworks & Tools 🧰
 
 ![Pandas](https://img.shields.io/badge/Pandas-%23E4405F.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -38,29 +62,56 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%237289DA.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 
-**ML & Data Mining softwares 💻**
+### Databases & Visualization 📊
 
-![Knime](https://img.shields.io/badge/KNIME-informational?style=flat&color=FFFF00)
-![RapidMiner](https://img.shields.io/badge/RapidMiner-informational?style=flat&color=%234ea94b)
-![Orange](https://img.shields.io/badge/Orange-informational?style=flat&color=%23F7931E)
-![SAS Enterprise Miner](https://img.shields.io/badge/SAS_Enterprise_Miner-008CC1.svg?style=flat&logo=SPSS&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-E97627.svg?style=flat&logo=SPSS&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20-%23F00000.svg?&style=flat&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-008CC1.svg?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white")
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Cypher](https://img.shields.io/badge/Cypher-%23E4405F?style=flat&logo=Cypher&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat)
 
 
-**Editors ✍🏻**
+### Enterprise & Governance ⚖️
+- AI Governance & Regulatory Compliance (EU AI Act)
+- ML documentation standards (technical docs)
+- Secure Data Handling in regulated environments
+- Production monitoring & SSH-based maintenance (AM)
 
+
+### Data Mining & Analytics 💻
+
+![KNIME](https://img.shields.io/badge/KNIME-FFFF00?style=flat)
+![RapidMiner](https://img.shields.io/badge/RapidMiner-%234ea94b?style=flat)
+![Orange](https://img.shields.io/badge/Orange-%23F7931E?style=flat)
+![SAS EM](https://img.shields.io/badge/SAS_Enterprise_Miner-008CC1?style=flat)
+![SPSS](https://img.shields.io/badge/SPSS-E97627?style=flat)
+
+
+### Editors & IDEs ✍🏻
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=flat&logo=spyder%20ide&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%23F7931E.svg?style=flat&logo=atom&logoColor=white)
 
 
-**Organizing & collaborating tools 👩🏼‍🤝‍👨🏽**
+### Productivity 📐
+- Microsoft Teams, Word, Excel, PowerPoint, Outlook, Access
+- LaTeX
+
+
+### Collaboration & Organization 🤝
 
 ![Git](https://img.shields.io/badge/Git-%2300AFF0.svg?style=flat&logo=Git&logoColor=white)
 ![Jira/X-ray](https://img.shields.io/badge/Jira%20-%235835CC.svg?&style=flat&logo=Jira&logoColor=white")
@@ -70,18 +121,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 
-**Database & Data Visualization 📊**
-
-![Oracle](https://img.shields.io/badge/Oracle%20-%23F00000.svg?&style=flat&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-008CC1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white")
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Cypher](https://img.shields.io/badge/Cypher-%23E4405F?style=flat&logo=Cypher&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-
-**Self-taught in 📚**
+### Self-taught in 📚
 
 ![Linux](https://img.shields.io/badge/Linux%20-%234285F4.svg?&style=flat&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white)
@@ -92,7 +132,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter%20-%23F7931E.svg?&style=flat&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase%20-%23039BE5.svg?&style=flat&logo=firebase)
 
 
 <!-- About section: END -->
@@ -101,8 +140,6 @@
 <h2>Connect with me </h3>
   <p>
     <a href="https://www.linkedin.com/in/susanna-maugeri/"><img src="https://img.shields.io/badge/-Susanna%20Maugeri%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/susanna-maugeri" alt="LinkedIn Badge"></a>
-    <a href="https://twitter.com/SusannaMaugeri"><img src="https://img.shields.io/badge/-Susanna Maugeri-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;" alt="Twitter Badge"></a>
-    <a href="https://www.instagram.com/susannamau/"><img src="https://img.shields.io/badge/SusannaMau%20-informational?&style=plastic&amp;labelColor=informational&amp;logo=Instagram&logoColor=white"/></a>
   </p>
  <!-- Conecct section: END -->
  
@@ -125,4 +162,4 @@
 
 <!-- THE END -->
 
-Credits: [Gift Egwuenu](https://github.com/lauragift21/) and [Tawkir Alif](https://github.com/TawkirAlif)
+⭐ *Credits: Gift Egwuenu & Tawkir Alif*
