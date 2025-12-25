@@ -17,13 +17,13 @@
 - 📚 **Data Scientist** with a background in *Statistics & Information Management*  
 - 💡 Passionate about **Statistics, Computer Science and emerging technologies**  
 - 🏦 Currently working as **Data Scientist @ BPER Banca** - views expressed are my own
-- 🚀 Always curious, always learning, always building
+- 🚀 Always curious, always learning, always building  
 
 ---
 
-## Tech Stack 🧠
+## 🧠 Tech Stack
 
-### Languages ✏️
+### ✏️ Languages
 ![Python](https://img.shields.io/badge/Python-%23CC342D?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FFFF00.svg?style=flat&logo=SPSS&logoColor=white)
@@ -53,9 +53,12 @@
 ![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-4285F4?style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)
 
+### ☁️ Cloud
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-ffffff?style=flat&logo=googlecloud)
 
 ### Frameworks & Tools 🧰
 
+### 🖥️ ML & DL Frameworks
 ![Pandas](https://img.shields.io/badge/Pandas-%23E4405F.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
@@ -113,13 +116,13 @@
 
 ### Collaboration & Organization 🤝
 
-![Git](https://img.shields.io/badge/Git-%2300AFF0.svg?style=flat&logo=Git&logoColor=white)
-![Jira/X-ray](https://img.shields.io/badge/Jira%20-%235835CC.svg?&style=flat&logo=Jira&logoColor=white")
+### 🤝 Collaboration & Organization
+![Git](https://img.shields.io/badge/Git-%2300AFF0.svg?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%235835CC.svg?style=flat&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
+---
 
 ### Self-taught in 📚
 
@@ -160,6 +163,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susannamau&label=Profile%20views&color=0e75b6&style=flat" alt="My views" />
 </p>
 
-<!-- THE END -->
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=susannamau" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=susannamau&show_icons=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susannamau&layout=compact" />
+</p>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=susannamau&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
 
 ⭐ *Credits: Gift Egwuenu & Tawkir Alif*
